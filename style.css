@@ -10,6 +10,7 @@ body{
 
 /* Navigation Bar */
 header{
+  width: 100%;
   display: block;
   height: 30rem;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png");
